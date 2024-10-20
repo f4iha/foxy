@@ -5,6 +5,7 @@ Based on the SI5351 clock generator, this is a simple VHF beacon with the target
 ## Hardware
 
 The harware is based on an Arduino Nano, a SI5351 and a filter based on LC components.
+The Kicad project (schema and PCB) are available in the electronics folder. Fabrication files are available in the electronics/foxy/Gerber folder.
 
 ## Software
 
